@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lemgo.mymenu.MainActivity">
+
+   <ImageView
+       android:id="@+id/iv"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+   <CheckBox
+       android:id="@+id/cb"
+       android:text="@string/cb_text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+   <Button
+       android:id="@+id/btn"
+       android:text="@string/btn2_text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+   <Button
+       android:id="@+id/btn_1"
+       android:text="@string/btn1_text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+   <Button
+       android:id="@+id/btn_fileExplorer"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/file_browser"/>
+   <Button
+       android:id="@+id/btn_sqlite"
+       android:text="@string/sqlite"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="cb_text">启动的时候显示问候语</string>
+    <string name="btn2_text">使用内部存储</string>
+    <string name="save">保存</string>
+    <string name="btn1_text">使用外部存储</string>
+    <string name="file_browser">文件浏览器（简单）</string>
+    <string name="sqlite">使用SQLite数据库</string>
+    <string name="name">姓名:</string>
+    <string name="sex">性别:</string>
+    <string name="add">添加</string>
+</resources>
